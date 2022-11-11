@@ -1,8 +1,8 @@
 # Java Project Builder
-Author: [Jack](https://github.com/j-a-c-k-goes)
-Date Last Modified: 09 November 2022
+Author: [Jack](https://github.com/j-a-c-k-goes)  
+Date Last Modified: 09 November 2022  
 
-A script which builds a Maven-like boilerplate of a Java project. Devewloped out of curiosity and gaining exposure to Bash scripting. 
+A script which builds a Maven-like boilerplate of a Java project. Developed out of curiosity and exposure to Bash scripting. 
 
 ---
 
