@@ -37,3 +37,7 @@ ProjectName
 		|--- site
 		|--- assembly
 ```
+---
+
+## Future Builds
+* insert boilerplate into files
